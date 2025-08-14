@@ -127,11 +127,11 @@ Generative Artificial Intelligence (Generative AI) is a transformative branch of
 
 ### 1. Introduction
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/171036ed-5c16-4cb0-af20-e1feceefa32c" />
-
 Generative AI has emerged as one of the most powerful innovations in artificial intelligence, enabling machines to not just process information but also create original, human-like content. Powered by advanced architectures like transformers, these systems have revolutionized fields such as natural language processing (NLP), computer vision, and multimodal AI.
 
 ### 2. Introduction to AI and Machine Learning
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fc652e2d-fc01-4072-877d-7c072e2997ff" />
 
 Artificial Intelligence (AI) refers to systems or machines capable of performing tasks that typically require human intelligence. Machine Learning (ML) is a subset of AI that focuses on enabling systems to learn patterns from data and make predictions without explicit programming.
 
@@ -148,6 +148,8 @@ iii)Outputs often indistinguishable from human-created content.
 
 ### 4. Types of Generative AI Models
 
+<img width="334" height="151" alt="image" src="https://github.com/user-attachments/assets/450bf56c-aeb9-4aca-b406-4c76e8932c09" />
+
 i)Generative Adversarial Networks (GANs) – Two networks (generator and discriminator) compete to produce realistic outputs.
 
 ii)Variational Autoencoders (VAEs) – Encodes data into a latent space and decodes to generate similar outputs.
@@ -161,6 +163,8 @@ iv)Autoregressive Models – Predicts the next token or pixel based on previous 
 LLMs are AI models trained on massive text datasets to understand and generate human-like language. They can perform tasks such as translation, summarization, question answering, and creative writing. Examples include GPT-4, PaLM, and LLaMA.
 
 ### 6. Architecture of LLMs
+
+<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/b96679e8-0451-48fa-a009-c61e2b2c31a9" />
 
 The Transformer architecture (introduced by Vaswani et al., 2017) is the backbone of modern LLMs.
 Key Components:
