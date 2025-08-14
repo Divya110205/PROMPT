@@ -127,6 +127,8 @@ Generative Artificial Intelligence (Generative AI) is a transformative branch of
 
 ### 1. Introduction
 
+<img width="969" height="1010" alt="image" src="https://github.com/user-attachments/assets/9eb4125d-cd7f-40f9-9c6c-569e9bab1a4d" />
+
 Generative AI has emerged as one of the most powerful innovations in artificial intelligence, enabling machines to not just process information but also create original, human-like content. Powered by advanced architectures like transformers, these systems have revolutionized fields such as natural language processing (NLP), computer vision, and multimodal AI.
 
 ### 2. Introduction to AI and Machine Learning
